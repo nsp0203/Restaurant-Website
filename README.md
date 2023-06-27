@@ -19,7 +19,7 @@ execute SQL queries, and retrieve or update data.
 
 You can download the project zip file and open it any ide like EclipseIde
 or visual studio and run these project. 
-You have to create database in your device by using Mysql and then connecr it in the "resto_servlet"
+You have to create database in your device by using Mysql and then connect it in the "resto_servlet"
 class as i had done.
 
 # Following Are Some Screenshots Of The Website
